@@ -1,16 +1,37 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
+		"ApplySyntax",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Glue",
+		"GraphQL",
+		"Handlebars",
+		"Increment Selection",
+		"JsPrettier",
+		"JSX",
+		"Monokai JSON+",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Rails Latest Migration",
+		"ReactJS",
+		"ReactJS Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"View In Browser"
+	]
 }
